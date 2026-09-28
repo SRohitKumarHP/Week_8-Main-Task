@@ -1,0 +1,4 @@
+Part_ID,Timestamp,Result,Defect_Count,Defect_Type,Confidence,Width_px,Height_px,Area_px2,Severity
+PART_001,2026-09-28 13:56:43,FAIL,3,inclusion,64.34,426.16,118.83,50639.03,HIGH
+PART_001,2026-09-28 13:56:43,FAIL,3,inclusion,58.64,248.75,110.07,27379.58,HIGH
+PART_001,2026-09-28 13:56:43,FAIL,3,inclusion,47.66,92.06,57.52,5295.84,HIGH
